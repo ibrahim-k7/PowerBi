@@ -1,0 +1,942 @@
+﻿Country,State Province,City,Buying Package,Color,Sum of Profit,Sum of Quantity
+United States,Alaska,Akhiok,Carton,Black,29979,2952
+United States,Alaska,Akhiok,Carton,Gray,2700,900
+United States,Alaska,Akhiok,Carton,Light Brown,-1464,1464
+United States,Alaska,Akhiok,Carton,N/A,4377.599999999999,1152
+United States,Alaska,Akhiok,Carton,White,31896,3036
+United States,Alaska,Akhiok,Each,Black,11180.5,596
+United States,Alaska,Akhiok,Each,Blue,51856,1670
+United States,Alaska,Akhiok,Each,Gray,1325.5,76
+United States,Alaska,Akhiok,Each,N/A,111335.70000000001,17857
+United States,Alaska,Akhiok,Each,Red,6180,93
+United States,Alaska,Akhiok,Each,White,2932.5,345
+United States,Alaska,Akhiok,Each,Yellow,1425,27
+United States,Alaska,Akhiok,Packet,N/A,5830.5,831
+United States,Alaska,Biorka,Carton,Black,7590,732
+United States,Alaska,Biorka,Carton,Gray,828,276
+United States,Alaska,Biorka,Carton,Light Brown,-336,336
+United States,Alaska,Biorka,Carton,White,6948,660
+United States,Alaska,Biorka,Each,Black,3086,214
+United States,Alaska,Biorka,Each,Blue,20300,664
+United States,Alaska,Biorka,Each,Gray,945.5,44
+United States,Alaska,Biorka,Each,N/A,42705.600000000006,7595
+United States,Alaska,Biorka,Each,Red,2000,26
+United States,Alaska,Biorka,Each,White,1283.5,151
+United States,Alaska,Biorka,Each,Yellow,355,11
+United States,Alaska,Biorka,Packet,N/A,4372.5,297
+United States,Alaska,Ekwok,Carton,Black,7620,732
+United States,Alaska,Ekwok,Carton,Gray,540,180
+United States,Alaska,Ekwok,Carton,Light Brown,-612,612
+United States,Alaska,Ekwok,Carton,N/A,729.6,192
+United States,Alaska,Ekwok,Carton,White,12996,1224
+United States,Alaska,Ekwok,Each,Black,4865,267
+United States,Alaska,Ekwok,Each,Blue,33363,1107
+United States,Alaska,Ekwok,Each,Gray,770.5,36
+United States,Alaska,Ekwok,Each,N/A,73678.65,6663
+United States,Alaska,Ekwok,Each,Red,1337.5,13
+United States,Alaska,Ekwok,Each,White,1232.5,145
+United States,Alaska,Ekwok,Each,Yellow,162.5,13
+United States,Alaska,Ekwok,Packet,N/A,6255,390
+United States,Alaska,Haycock,Carton,Black,19582,1880
+United States,Alaska,Haycock,Carton,Gray,1836,612
+United States,Alaska,Haycock,Carton,Light Brown,-252,252
+United States,Alaska,Haycock,Carton,N/A,690,120
+United States,Alaska,Haycock,Carton,White,14616,1392
+United States,Alaska,Haycock,Each,Black,10967,427
+United States,Alaska,Haycock,Each,Blue,49371.5,1220
+United States,Alaska,Haycock,Each,Gray,884.5,45
+United States,Alaska,Haycock,Each,N/A,55981.44999999998,7952
+United States,Alaska,Haycock,Each,Red,5530,70
+United States,Alaska,Haycock,Each,White,1955,230
+United States,Alaska,Haycock,Each,Yellow,175,14
+United States,Alaska,Haycock,Packet,N/A,6663,426
+United States,Alaska,Ikatan,Carton,Black,8634,840
+United States,Alaska,Ikatan,Carton,Gray,468,156
+United States,Alaska,Ikatan,Carton,Light Brown,-300,300
+United States,Alaska,Ikatan,Carton,N/A,1710.6,444
+United States,Alaska,Ikatan,Carton,White,8364,816
+United States,Alaska,Ikatan,Each,Black,5681.5,216
+United States,Alaska,Ikatan,Each,Blue,23301,844
+United States,Alaska,Ikatan,Each,Gray,709.5,30
+United States,Alaska,Ikatan,Each,N/A,48102.85,9675
+United States,Alaska,Ikatan,Each,Red,8125,79
+United States,Alaska,Ikatan,Each,White,1836,216
+United States,Alaska,Ikatan,Each,Yellow,1120,20
+United States,Alaska,Ikatan,Packet,N/A,1138.5,207
+United States,Alaska,Iliamna,Carton,Black,12907.5,1278
+United States,Alaska,Iliamna,Carton,Gray,1512,504
+United States,Alaska,Iliamna,Carton,Light Brown,-324,324
+United States,Alaska,Iliamna,Carton,White,10860,1044
+United States,Alaska,Iliamna,Each,Black,6865.5,282
+United States,Alaska,Iliamna,Each,Blue,38055.5,1138
+United States,Alaska,Iliamna,Each,Gray,816,34
+United States,Alaska,Iliamna,Each,N/A,45330.899999999994,7185
+United States,Alaska,Iliamna,Each,Red,1880,25
+United States,Alaska,Iliamna,Each,White,1963.5,231
+United States,Alaska,Iliamna,Each,Yellow,955,30
+United States,Alaska,Iliamna,Packet,N/A,4704,160
+United States,Alaska,King Cove,Carton,Black,11640,1116
+United States,Alaska,King Cove,Carton,Gray,1224,408
+United States,Alaska,King Cove,Carton,Light Brown,-552,552
+United States,Alaska,King Cove,Carton,N/A,1942.2,468
+United States,Alaska,King Cove,Carton,White,11742,1128
+United States,Alaska,King Cove,Each,Black,7934.5,368
+United States,Alaska,King Cove,Each,Blue,32010,819
+United States,Alaska,King Cove,Each,Gray,716,30
+United States,Alaska,King Cove,Each,N/A,56384.15,7276
+United States,Alaska,King Cove,Each,Red,4212.5,51
+United States,Alaska,King Cove,Each,White,1479,174
+United States,Alaska,King Cove,Each,Yellow,300,24
+United States,Alaska,King Cove,Packet,N/A,6364.5,379
+United States,Alaska,Kwethluk,Carton,Black,18470.5,1766
+United States,Alaska,Kwethluk,Carton,Gray,2808,936
+United States,Alaska,Kwethluk,Carton,Light Brown,-648,648
+United States,Alaska,Kwethluk,Carton,White,11268,1092
+United States,Alaska,Kwethluk,Each,Black,9060,367
+United States,Alaska,Kwethluk,Each,Blue,21978,855
+United States,Alaska,Kwethluk,Each,Gray,1207,59
+United States,Alaska,Kwethluk,Each,N/A,46948.95,9065
+United States,Alaska,Kwethluk,Each,Red,6920,68
+United States,Alaska,Kwethluk,Each,White,1326,156
+United States,Alaska,Kwethluk,Each,Yellow,1155,17
+United States,Alaska,Kwethluk,Packet,N/A,5127,660
+United States,Alaska,Lemeta,Carton,Black,14303,1384
+United States,Alaska,Lemeta,Carton,Gray,1728,576
+United States,Alaska,Lemeta,Carton,Light Brown,-612,612
+United States,Alaska,Lemeta,Carton,White,9828,948
+United States,Alaska,Lemeta,Each,Black,7553.5,268
+United States,Alaska,Lemeta,Each,Blue,24731.5,777
+United States,Alaska,Lemeta,Each,Gray,681.5,29
+United States,Alaska,Lemeta,Each,N/A,37709.85,6308
+United States,Alaska,Lemeta,Each,Red,2850,39
+United States,Alaska,Lemeta,Each,White,1445,170
+United States,Alaska,Lemeta,Each,Yellow,1190,14
+United States,Alaska,Lemeta,Packet,N/A,6412.5,739
+United States,Alaska,Port Chilkoot,Carton,Black,15796.5,1530
+United States,Alaska,Port Chilkoot,Carton,Gray,684,228
+United States,Alaska,Port Chilkoot,Carton,Light Brown,-372,372
+United States,Alaska,Port Chilkoot,Carton,White,10140,960
+United States,Alaska,Port Chilkoot,Each,Black,4656,276
+United States,Alaska,Port Chilkoot,Each,Blue,22141.5,796
+United States,Alaska,Port Chilkoot,Each,Gray,798,39
+United States,Alaska,Port Chilkoot,Each,N/A,39508.7,8688
+United States,Alaska,Port Chilkoot,Each,Red,1635,15
+United States,Alaska,Port Chilkoot,Each,White,1734,204
+United States,Alaska,Port Chilkoot,Each,Yellow,1105,13
+United States,Alaska,Port Chilkoot,Packet,N/A,3663,636
+United States,Alaska,Wrangell,Carton,Black,8770.5,846
+United States,Alaska,Wrangell,Carton,Gray,648,216
+United States,Alaska,Wrangell,Carton,Light Brown,-192,192
+United States,Alaska,Wrangell,Carton,White,13458,1272
+United States,Alaska,Wrangell,Each,Black,5604,284
+United States,Alaska,Wrangell,Each,Blue,26311.5,854
+United States,Alaska,Wrangell,Each,Gray,340,17
+United States,Alaska,Wrangell,Each,N/A,58846.45,6794
+United States,Alaska,Wrangell,Each,Red,1200,20
+United States,Alaska,Wrangell,Each,White,2167.5,255
+United States,Alaska,Wrangell,Each,Yellow,510,6
+United States,Alaska,Wrangell,Packet,N/A,1491,382
+United States,California,Arrowbear Lake,Carton,Black,17691,1740
+United States,California,Arrowbear Lake,Carton,Gray,1080,360
+United States,California,Arrowbear Lake,Carton,Light Brown,-420,420
+United States,California,Arrowbear Lake,Carton,White,17598,1728
+United States,California,Arrowbear Lake,Each,Black,9168,441
+United States,California,Arrowbear Lake,Each,Blue,26420,918
+United States,California,Arrowbear Lake,Each,Gray,1595.5,70
+United States,California,Arrowbear Lake,Each,N/A,62717.7,10624
+United States,California,Arrowbear Lake,Each,Red,2942.5,36
+United States,California,Arrowbear Lake,Each,White,1360,160
+United States,California,Arrowbear Lake,Each,Yellow,1275,15
+United States,California,Arrowbear Lake,Packet,N/A,1770,192
+United States,California,Arrowhead Highlands,Carton,Black,10942,1052
+United States,California,Arrowhead Highlands,Carton,Gray,540,180
+United States,California,Arrowhead Highlands,Carton,Light Brown,-444,444
+United States,California,Arrowhead Highlands,Carton,N/A,1276.8000000000002,336
+United States,California,Arrowhead Highlands,Carton,White,17112,1644
+United States,California,Arrowhead Highlands,Each,Black,7865.5,339
+United States,California,Arrowhead Highlands,Each,Blue,42259,1237
+United States,California,Arrowhead Highlands,Each,Gray,927,39
+United States,California,Arrowhead Highlands,Each,N/A,59079.600000000006,8574
+United States,California,Arrowhead Highlands,Each,Red,5420,58
+United States,California,Arrowhead Highlands,Each,White,1224,144
+United States,California,Arrowhead Highlands,Packet,N/A,7083,506
+United States,California,Avenal,Carton,Black,16884.5,1594
+United States,California,Avenal,Carton,Gray,1296,432
+United States,California,Avenal,Carton,Light Brown,-648,648
+United States,California,Avenal,Carton,White,17982,1704
+United States,California,Avenal,Each,Black,10468.5,438
+United States,California,Avenal,Each,Blue,25291.5,980
+United States,California,Avenal,Each,Gray,1021.5,54
+United States,California,Avenal,Each,N/A,57732.85,7370
+United States,California,Avenal,Each,Red,960,11
+United States,California,Avenal,Each,White,1164.5,137
+United States,California,Avenal,Each,Yellow,1267.5,26
+United States,California,Avenal,Packet,N/A,4621.5,505
+United States,California,Biggs,Carton,Black,9877,968
+United States,California,Biggs,Carton,Gray,720,240
+United States,California,Biggs,Carton,Light Brown,-276,276
+United States,California,Biggs,Carton,White,11874,1140
+United States,California,Biggs,Each,Black,2166.5,142
+United States,California,Biggs,Each,Blue,28582,873
+United States,California,Biggs,Each,Gray,1173,51
+United States,California,Biggs,Each,N/A,24743.550000000003,4598
+United States,California,Biggs,Each,Red,220,7
+United States,California,Biggs,Each,White,748,88
+United States,California,Biggs,Each,Yellow,635,16
+United States,California,Biggs,Packet,N/A,1728,228
+United States,California,Bombay Beach,Carton,Black,16871.5,1622
+United States,California,Bombay Beach,Carton,Gray,1116,372
+United States,California,Bombay Beach,Carton,Light Brown,-408,408
+United States,California,Bombay Beach,Carton,N/A,912,240
+United States,California,Bombay Beach,Carton,White,12726,1236
+United States,California,Bombay Beach,Each,Black,9194.5,358
+United States,California,Bombay Beach,Each,Blue,38904,1051
+United States,California,Bombay Beach,Each,Gray,1753,81
+United States,California,Bombay Beach,Each,N/A,62138.850000000006,10626
+United States,California,Bombay Beach,Each,Red,2015,38
+United States,California,Bombay Beach,Each,White,1938,228
+United States,California,Bombay Beach,Each,Yellow,162.5,13
+United States,California,Bombay Beach,Packet,N/A,5334,292
+United States,California,Caruthers,Carton,Black,17764,1688
+United States,California,Caruthers,Carton,Gray,1332,444
+United States,California,Caruthers,Carton,Light Brown,-504,504
+United States,California,Caruthers,Carton,N/A,1094.4,288
+United States,California,Caruthers,Carton,White,10602,984
+United States,California,Caruthers,Each,Black,10050.5,481
+United States,California,Caruthers,Each,Blue,39309,1405
+United States,California,Caruthers,Each,Gray,1699,80
+United States,California,Caruthers,Each,N/A,70559.65,9955
+United States,California,Caruthers,Each,Red,2462.5,40
+United States,California,Caruthers,Each,White,1572.5,185
+United States,California,Caruthers,Each,Yellow,370,18
+United States,California,Caruthers,Packet,N/A,3964.5,515
+United States,California,El Centro,Carton,Black,13559,1312
+United States,California,El Centro,Carton,Gray,1296,432
+United States,California,El Centro,Carton,Light Brown,-372,372
+United States,California,El Centro,Carton,White,14292,1356
+United States,California,El Centro,Each,Black,9986.5,367
+United States,California,El Centro,Each,Blue,34517.5,1172
+United States,California,El Centro,Each,Gray,550,23
+United States,California,El Centro,Each,N/A,77386.35,8819
+United States,California,El Centro,Each,Red,1175,25
+United States,California,El Centro,Each,White,1768,208
+United States,California,El Centro,Each,Yellow,865,17
+United States,California,El Centro,Packet,N/A,4545,326
+United States,California,Fieldbrook,Carton,Black,16562.5,1574
+United States,California,Fieldbrook,Carton,Gray,2736,912
+United States,California,Fieldbrook,Carton,Light Brown,-768,768
+United States,California,Fieldbrook,Carton,N/A,1094.4,288
+United States,California,Fieldbrook,Carton,White,16284,1524
+United States,California,Fieldbrook,Each,Black,7970,349
+United States,California,Fieldbrook,Each,Blue,38678,1431
+United States,California,Fieldbrook,Each,Gray,1089,56
+United States,California,Fieldbrook,Each,N/A,71368.2,9669
+United States,California,Fieldbrook,Each,Red,1702.5,56
+United States,California,Fieldbrook,Each,White,1436.5,169
+United States,California,Fieldbrook,Each,Yellow,175,14
+United States,California,Fieldbrook,Packet,N/A,5392.5,487
+United States,California,Floriston,Carton,Black,20437,1952
+United States,California,Floriston,Carton,Gray,2124,708
+United States,California,Floriston,Carton,Light Brown,-396,396
+United States,California,Floriston,Carton,N/A,729.6,192
+United States,California,Floriston,Carton,White,7158,684
+United States,California,Floriston,Each,Black,6807.5,270
+United States,California,Floriston,Each,Blue,23274,685
+United States,California,Floriston,Each,Gray,1035,45
+United States,California,Floriston,Each,N/A,64736.65,8842
+United States,California,Floriston,Each,Red,3030,59
+United States,California,Floriston,Each,White,1402.5,165
+United States,California,Floriston,Each,Yellow,185,9
+United States,California,Floriston,Packet,N/A,4324.5,779
+United States,California,Glen Avon,Carton,Black,13776,1320
+United States,California,Glen Avon,Carton,Gray,2340,780
+United States,California,Glen Avon,Carton,Light Brown,-540,540
+United States,California,Glen Avon,Carton,N/A,91.2,24
+United States,California,Glen Avon,Carton,White,10848,1020
+United States,California,Glen Avon,Each,Black,7076.5,348
+United States,California,Glen Avon,Each,Blue,31789.5,1130
+United States,California,Glen Avon,Each,Gray,1193,53
+United States,California,Glen Avon,Each,N/A,56021.75,10428
+United States,California,Glen Avon,Each,Red,3737.5,53
+United States,California,Glen Avon,Each,White,1334.5,157
+United States,California,Glen Avon,Each,Yellow,1707.5,38
+United States,California,Glen Avon,Packet,N/A,7120.5,563
+United States,California,Herlong,Carton,Black,15065,1444
+United States,California,Herlong,Carton,Gray,1116,372
+United States,California,Herlong,Carton,Light Brown,-624,624
+United States,California,Herlong,Carton,N/A,1732.8000000000002,456
+United States,California,Herlong,Carton,White,11316,1080
+United States,California,Herlong,Each,Black,6379,315
+United States,California,Herlong,Each,Blue,19181,886
+United States,California,Herlong,Each,Gray,1279,58
+United States,California,Herlong,Each,N/A,68382.1,8534
+United States,California,Herlong,Each,Red,2360,28
+United States,California,Herlong,Each,White,1564,184
+United States,California,Herlong,Each,Yellow,672.5,19
+United States,California,Herlong,Packet,N/A,1315.5,351
+United States,California,Idria,Carton,Black,23132.5,2222
+United States,California,Idria,Carton,Gray,2700,900
+United States,California,Idria,Carton,Light Brown,-504,504
+United States,California,Idria,Carton,White,15174,1416
+United States,California,Idria,Each,Black,6883,309
+United States,California,Idria,Each,Blue,27266.5,928
+United States,California,Idria,Each,Gray,800.5,38
+United States,California,Idria,Each,N/A,41252.75,7701
+United States,California,Idria,Each,Red,2942.5,59
+United States,California,Idria,Each,White,1581,186
+United States,California,Idria,Each,Yellow,925,16
+United States,California,Idria,Packet,N/A,6855,642
+United States,California,Jesmond Dene,Carton,Black,14835,1416
+United States,California,Jesmond Dene,Carton,Gray,1044,348
+United States,California,Jesmond Dene,Carton,Light Brown,-300,300
+United States,California,Jesmond Dene,Carton,N/A,456,120
+United States,California,Jesmond Dene,Carton,White,8526,816
+United States,California,Jesmond Dene,Each,Black,11615.5,376
+United States,California,Jesmond Dene,Each,Blue,14503.5,727
+United States,California,Jesmond Dene,Each,Gray,550,23
+United States,California,Jesmond Dene,Each,N/A,40680.55,5806
+United States,California,Jesmond Dene,Each,Red,3177.5,41
+United States,California,Jesmond Dene,Each,White,1870,220
+United States,California,Jesmond Dene,Each,Yellow,507.5,29
+United States,California,Jesmond Dene,Packet,N/A,7546.5,427
+United States,California,Knights Landing,Carton,Black,19179,1812
+United States,California,Knights Landing,Carton,Gray,1728,576
+United States,California,Knights Landing,Carton,Light Brown,-360,360
+United States,California,Knights Landing,Carton,N/A,273.6,72
+United States,California,Knights Landing,Carton,White,16254,1548
+United States,California,Knights Landing,Each,Black,7496.5,423
+United States,California,Knights Landing,Each,Blue,33091,884
+United States,California,Knights Landing,Each,Gray,1013.5,49
+United States,California,Knights Landing,Each,N/A,75003.20000000001,7324
+United States,California,Knights Landing,Each,Red,1605,19
+United States,California,Knights Landing,Each,White,2014.5,237
+United States,California,Knights Landing,Each,Yellow,270,10
+United States,California,Knights Landing,Packet,N/A,3927,784
+United States,California,Lake Davis,Carton,Black,18299,1768
+United States,California,Lake Davis,Carton,Gray,1368,456
+United States,California,Lake Davis,Carton,Light Brown,-432,432
+United States,California,Lake Davis,Carton,N/A,912,240
+United States,California,Lake Davis,Carton,White,10032,960
+United States,California,Lake Davis,Each,Black,10343.5,417
+United States,California,Lake Davis,Each,Blue,42479.5,1253
+United States,California,Lake Davis,Each,Gray,938,40
+United States,California,Lake Davis,Each,N/A,65619.6,9442
+United States,California,Lake Davis,Each,Red,3165,51
+United States,California,Lake Davis,Each,White,1538.5,181
+United States,California,Lake Davis,Each,Yellow,122.5,4
+United States,California,Lake Davis,Packet,N/A,5796,784
+United States,California,Lake Hughes,Carton,Black,9988,1016
+United States,California,Lake Hughes,Carton,Gray,1260,420
+United States,California,Lake Hughes,Carton,Light Brown,-312,312
+United States,California,Lake Hughes,Carton,N/A,803.4,156
+United States,California,Lake Hughes,Carton,White,8232,768
+United States,California,Lake Hughes,Each,Black,9097.5,400
+United States,California,Lake Hughes,Each,Blue,18025,794
+United States,California,Lake Hughes,Each,Gray,963,41
+United States,California,Lake Hughes,Each,N/A,50577.2,7527
+United States,California,Lake Hughes,Each,Red,8400,89
+United States,California,Lake Hughes,Each,White,1776.5,209
+United States,California,Lake Hughes,Each,Yellow,1205,21
+United States,California,Lake Hughes,Packet,N/A,6678,496
+United States,California,Lompoc,Carton,Black,11334,1056
+United States,California,Lompoc,Carton,Gray,1332,444
+United States,California,Lompoc,Carton,Light Brown,-504,504
+United States,California,Lompoc,Carton,N/A,729.6,192
+United States,California,Lompoc,Carton,White,13152,1272
+United States,California,Lompoc,Each,Black,7726.5,414
+United States,California,Lompoc,Each,Blue,25261,924
+United States,California,Lompoc,Each,Gray,1326,59
+United States,California,Lompoc,Each,N/A,72977.2,8637
+United States,California,Lompoc,Each,Red,5185,62
+United States,California,Lompoc,Each,White,1632,192
+United States,California,Lompoc,Each,Yellow,87.5,7
+United States,California,Lompoc,Packet,N/A,6981,622
+United States,California,Lytle Creek,Carton,Black,8539.5,858
+United States,California,Lytle Creek,Carton,Gray,648,216
+United States,California,Lytle Creek,Carton,Light Brown,-288,288
+United States,California,Lytle Creek,Carton,N/A,1052.4,240
+United States,California,Lytle Creek,Carton,White,17658,1692
+United States,California,Lytle Creek,Each,Black,9736.5,391
+United States,California,Lytle Creek,Each,Blue,31229.5,975
+United States,California,Lytle Creek,Each,Gray,1338.5,62
+United States,California,Lytle Creek,Each,N/A,49628.75,8391
+United States,California,Lytle Creek,Each,Red,672.5,39
+United States,California,Lytle Creek,Each,White,1785,210
+United States,California,Lytle Creek,Each,Yellow,2400,47
+United States,California,Lytle Creek,Packet,N/A,4987.5,359
+United States,California,Magalia,Carton,Black,11089,1064
+United States,California,Magalia,Carton,Gray,540,180
+United States,California,Magalia,Carton,Light Brown,-444,444
+United States,California,Magalia,Carton,N/A,273.6,72
+United States,California,Magalia,Carton,White,17376,1680
+United States,California,Magalia,Each,Black,8236.5,283
+United States,California,Magalia,Each,Blue,17703,730
+United States,California,Magalia,Each,Gray,238,11
+United States,California,Magalia,Each,N/A,25633.4,4746
+United States,California,Magalia,Each,Red,3040,37
+United States,California,Magalia,Each,White,1368.5,161
+United States,California,Magalia,Each,Yellow,1872.5,28
+United States,California,Magalia,Packet,N/A,813,152
+United States,California,Marin City,Carton,Black,11505.5,1102
+United States,California,Marin City,Carton,Gray,1332,444
+United States,California,Marin City,Carton,Light Brown,-336,336
+United States,California,Marin City,Carton,N/A,2827.2,744
+United States,California,Marin City,Carton,White,10326,996
+United States,California,Marin City,Each,Black,4195.5,271
+United States,California,Marin City,Each,Blue,11923.5,492
+United States,California,Marin City,Each,Gray,603.5,33
+United States,California,Marin City,Each,N/A,36422.59999999999,6578
+United States,California,Marin City,Each,Red,1710,39
+United States,California,Marin City,Each,White,986,116
+United States,California,Marin City,Packet,N/A,1144.5,301
+United States,California,Nicasio,Carton,Black,20016,1872
+United States,California,Nicasio,Carton,Gray,180,60
+United States,California,Nicasio,Carton,Light Brown,-840,840
+United States,California,Nicasio,Carton,N/A,912,240
+United States,California,Nicasio,Carton,White,7938,756
+United States,California,Nicasio,Each,Black,6328,343
+United States,California,Nicasio,Each,Blue,18841,973
+United States,California,Nicasio,Each,Gray,894.5,39
+United States,California,Nicasio,Each,N/A,52132.6,8926
+United States,California,Nicasio,Each,Red,6190,84
+United States,California,Nicasio,Each,White,1096.5,129
+United States,California,Nicasio,Each,Yellow,402.5,9
+United States,California,Nicasio,Packet,N/A,4732.5,545
+United States,California,Orick,Carton,Black,12419,1192
+United States,California,Orick,Carton,Gray,432,144
+United States,California,Orick,Carton,Light Brown,-456,456
+United States,California,Orick,Carton,N/A,1641.6,432
+United States,California,Orick,Carton,White,10536,1032
+United States,California,Orick,Each,Black,9597.5,302
+United States,California,Orick,Each,Blue,19388,769
+United States,California,Orick,Each,Gray,1295,60
+United States,California,Orick,Each,N/A,59013.200000000004,8569
+United States,California,Orick,Each,Red,1435,27
+United States,California,Orick,Each,White,1555.5,183
+United States,California,Orick,Each,Yellow,852.5,16
+United States,California,Orick,Packet,N/A,4873.5,243
+United States,California,Port Hueneme,Carton,Black,20889,2064
+United States,California,Port Hueneme,Carton,Gray,1800,600
+United States,California,Port Hueneme,Carton,Light Brown,-792,792
+United States,California,Port Hueneme,Carton,N/A,456,120
+United States,California,Port Hueneme,Carton,White,11268,1056
+United States,California,Port Hueneme,Each,Black,5147,256
+United States,California,Port Hueneme,Each,Blue,28699.5,859
+United States,California,Port Hueneme,Each,Gray,1330,58
+United States,California,Port Hueneme,Each,N/A,60845.45,8287
+United States,California,Port Hueneme,Each,Red,4567.5,55
+United States,California,Port Hueneme,Each,White,1759.5,207
+United States,California,Port Hueneme,Each,Yellow,937.5,17
+United States,California,Port Hueneme,Packet,N/A,3144,118
+United States,California,Rail Road Flat,Carton,Black,16868,1576
+United States,California,Rail Road Flat,Carton,Gray,972,324
+United States,California,Rail Road Flat,Carton,Light Brown,-300,300
+United States,California,Rail Road Flat,Carton,N/A,182.4,48
+United States,California,Rail Road Flat,Carton,White,12558,1212
+United States,California,Rail Road Flat,Each,Black,5233.5,302
+United States,California,Rail Road Flat,Each,Blue,20122,793
+United States,California,Rail Road Flat,Each,Gray,568,24
+United States,California,Rail Road Flat,Each,N/A,50214.149999999994,8090
+United States,California,Rail Road Flat,Each,Red,3575,66
+United States,California,Rail Road Flat,Each,White,1309,154
+United States,California,Rail Road Flat,Each,Yellow,340,4
+United States,California,Rail Road Flat,Packet,N/A,4821,238
+United States,California,Ridgemark,Carton,Black,13788,1356
+United States,California,Ridgemark,Carton,Gray,756,252
+United States,California,Ridgemark,Carton,Light Brown,-624,624
+United States,California,Ridgemark,Carton,N/A,729.6,192
+United States,California,Ridgemark,Carton,White,12546,1200
+United States,California,Ridgemark,Each,Black,12255.5,385
+United States,California,Ridgemark,Each,Blue,16753.5,779
+United States,California,Ridgemark,Each,Gray,1191,53
+United States,California,Ridgemark,Each,N/A,61793.95,8101
+United States,California,Ridgemark,Each,Red,4217.5,43
+United States,California,Ridgemark,Each,White,1190,140
+United States,California,Ridgemark,Each,Yellow,172.5,8
+United States,California,Ridgemark,Packet,N/A,3505.5,517
+United States,California,San Jacinto,Carton,Black,20397.5,1990
+United States,California,San Jacinto,Carton,Gray,936,312
+United States,California,San Jacinto,Carton,Light Brown,-192,192
+United States,California,San Jacinto,Carton,N/A,505.2,96
+United States,California,San Jacinto,Carton,White,16254,1560
+United States,California,San Jacinto,Each,Black,12396.5,381
+United States,California,San Jacinto,Each,Blue,46579.5,1191
+United States,California,San Jacinto,Each,Gray,544.5,24
+United States,California,San Jacinto,Each,N/A,78161.44999999998,8543
+United States,California,San Jacinto,Each,Red,4777.5,60
+United States,California,San Jacinto,Each,White,1853,218
+United States,California,San Jacinto,Each,Yellow,692.5,9
+United States,California,San Jacinto,Packet,N/A,2253,294
+United States,California,South Laguna,Carton,Black,8634,840
+United States,California,South Laguna,Carton,Gray,2052,684
+United States,California,South Laguna,Carton,Light Brown,-540,540
+United States,California,South Laguna,Carton,White,10710,1032
+United States,California,South Laguna,Each,Black,10816.5,307
+United States,California,South Laguna,Each,Blue,25906.5,966
+United States,California,South Laguna,Each,Gray,731.5,34
+United States,California,South Laguna,Each,N/A,92325.5,6287
+United States,California,South Laguna,Each,Red,5255,58
+United States,California,South Laguna,Each,White,1139,134
+United States,California,South Laguna,Each,Yellow,340,4
+United States,California,South Laguna,Packet,N/A,1698,260
+United States,California,Stallion Springs,Carton,Black,17644.5,1686
+United States,California,Stallion Springs,Carton,Gray,720,240
+United States,California,Stallion Springs,Carton,Light Brown,-336,336
+United States,California,Stallion Springs,Carton,White,15072,1428
+United States,California,Stallion Springs,Each,Black,7102.5,358
+United States,California,Stallion Springs,Each,Blue,25999,1009
+United States,California,Stallion Springs,Each,Gray,349,16
+United States,California,Stallion Springs,Each,N/A,50842.95,9543
+United States,California,Stallion Springs,Each,Red,2957.5,48
+United States,California,Stallion Springs,Each,White,1904,224
+United States,California,Stallion Springs,Each,Yellow,1190,14
+United States,California,Stallion Springs,Packet,N/A,2598,54
+United States,California,Taft Heights,Carton,Black,17468.5,1694
+United States,California,Taft Heights,Carton,Gray,1584,528
+United States,California,Taft Heights,Carton,Light Brown,-276,276
+United States,California,Taft Heights,Carton,White,13896,1308
+United States,California,Taft Heights,Each,Black,9197.5,229
+United States,California,Taft Heights,Each,Blue,35859,1122
+United States,California,Taft Heights,Each,Gray,1012.5,47
+United States,California,Taft Heights,Each,N/A,63716.45000000001,7123
+United States,California,Taft Heights,Each,Red,1887.5,28
+United States,California,Taft Heights,Each,White,1504.5,177
+United States,California,Taft Heights,Packet,N/A,3364.5,279
+United States,California,Termo,Carton,Black,24809,2404
+United States,California,Termo,Carton,Gray,1836,612
+United States,California,Termo,Carton,Light Brown,-300,300
+United States,California,Termo,Carton,N/A,138,24
+United States,California,Termo,Carton,White,9912,936
+United States,California,Termo,Each,Black,11055,408
+United States,California,Termo,Each,Blue,29990,1189
+United States,California,Termo,Each,Gray,670.5,29
+United States,California,Termo,Each,N/A,49010.15,8684
+United States,California,Termo,Each,Red,3470,52
+United States,California,Termo,Each,White,1972,232
+United States,California,Termo,Each,Yellow,827.5,14
+United States,California,Termo,Packet,N/A,4438.5,739
+United States,California,Twin Peaks,Carton,Black,14286.5,1462
+United States,California,Twin Peaks,Carton,Gray,936,312
+United States,California,Twin Peaks,Carton,Light Brown,-336,336
+United States,California,Twin Peaks,Carton,N/A,2371.2,624
+United States,California,Twin Peaks,Carton,White,13512,1296
+United States,California,Twin Peaks,Each,Black,8503.5,308
+United States,California,Twin Peaks,Each,Blue,32829.5,986
+United States,California,Twin Peaks,Each,Gray,599,25
+United States,California,Twin Peaks,Each,N/A,43406.5,8624
+United States,California,Twin Peaks,Each,Red,4657.5,52
+United States,California,Twin Peaks,Each,White,1309,154
+United States,California,Twin Peaks,Each,Yellow,1695,37
+United States,California,Twin Peaks,Packet,N/A,4443,702
+United States,California,Valley View Park,Carton,Black,11784,1164
+United States,California,Valley View Park,Carton,Gray,648,216
+United States,California,Valley View Park,Carton,Light Brown,-588,588
+United States,California,Valley View Park,Carton,N/A,547.2,144
+United States,California,Valley View Park,Carton,White,14316,1380
+United States,California,Valley View Park,Each,Black,7180.5,345
+United States,California,Valley View Park,Each,Blue,21526.5,865
+United States,California,Valley View Park,Each,Gray,1488,67
+United States,California,Valley View Park,Each,N/A,46799.7,8702
+United States,California,Valley View Park,Each,Red,2305,30
+United States,California,Valley View Park,Each,White,1972,232
+United States,California,Valley View Park,Each,Yellow,1140,39
+United States,California,Valley View Park,Packet,N/A,5881.5,825
+United States,California,Yermo,Carton,Black,14628,1380
+United States,California,Yermo,Carton,Gray,1152,384
+United States,California,Yermo,Carton,Light Brown,-240,240
+United States,California,Yermo,Carton,N/A,638.4,168
+United States,California,Yermo,Carton,White,11406,1092
+United States,California,Yermo,Each,Black,6326,289
+United States,California,Yermo,Each,Blue,35804,1189
+United States,California,Yermo,Each,Gray,979,48
+United States,California,Yermo,Each,N/A,54418.899999999994,5712
+United States,California,Yermo,Each,Red,2590,49
+United States,California,Yermo,Each,White,1564,184
+United States,California,Yermo,Each,Yellow,1240,18
+United States,California,Yermo,Packet,N/A,4057.5,489
+United States,Hawaii,Kapa'a,Carton,Black,19078,1868
+United States,Hawaii,Kapa'a,Carton,Gray,2556,852
+United States,Hawaii,Kapa'a,Carton,Light Brown,-192,192
+United States,Hawaii,Kapa'a,Carton,N/A,638.4,168
+United States,Hawaii,Kapa'a,Carton,White,15156,1464
+United States,Hawaii,Kapa'a,Each,Black,6212,289
+United States,Hawaii,Kapa'a,Each,Blue,33362,993
+United States,Hawaii,Kapa'a,Each,Gray,671,30
+United States,Hawaii,Kapa'a,Each,N/A,70202.6,8244
+United States,Hawaii,Kapa'a,Each,Red,3995,41
+United States,Hawaii,Kapa'a,Each,White,2720,320
+United States,Hawaii,Kapa'a,Each,Yellow,432.5,23
+United States,Hawaii,Kapa'a,Packet,N/A,7120.5,809
+United States,Nevada,Caselton,Carton,Black,13264.5,1278
+United States,Nevada,Caselton,Carton,Gray,2340,780
+United States,Nevada,Caselton,Carton,Light Brown,-492,492
+United States,Nevada,Caselton,Carton,N/A,1368,360
+United States,Nevada,Caselton,Carton,White,12990,1260
+United States,Nevada,Caselton,Each,Black,5833,244
+United States,Nevada,Caselton,Each,Blue,14388.5,535
+United States,Nevada,Caselton,Each,Gray,943,40
+United States,Nevada,Caselton,Each,N/A,59273.3,9537
+United States,Nevada,Caselton,Each,Red,2470,19
+United States,Nevada,Caselton,Each,White,1751,206
+United States,Nevada,Caselton,Each,Yellow,1470,19
+United States,Nevada,Caselton,Packet,N/A,3273,504
+United States,Nevada,Mount Montgomery,Carton,Black,9684,924
+United States,Nevada,Mount Montgomery,Carton,Gray,576,192
+United States,Nevada,Mount Montgomery,Carton,Light Brown,-444,444
+United States,Nevada,Mount Montgomery,Carton,N/A,1188,288
+United States,Nevada,Mount Montgomery,Carton,White,11304,1068
+United States,Nevada,Mount Montgomery,Each,Black,8100,377
+United States,Nevada,Mount Montgomery,Each,Blue,22950.5,943
+United States,Nevada,Mount Montgomery,Each,Gray,479,22
+United States,Nevada,Mount Montgomery,Each,N/A,61889.9,7913
+United States,Nevada,Mount Montgomery,Each,Red,2520,25
+United States,Nevada,Mount Montgomery,Each,White,1428,168
+United States,Nevada,Mount Montgomery,Each,Yellow,850,10
+United States,Nevada,Mount Montgomery,Packet,N/A,3522,596
+United States,Nevada,Panaca,Carton,Black,12249.5,1282
+United States,Nevada,Panaca,Carton,Gray,432,144
+United States,Nevada,Panaca,Carton,Light Brown,-396,396
+United States,Nevada,Panaca,Carton,N/A,690,120
+United States,Nevada,Panaca,Carton,White,8112,768
+United States,Nevada,Panaca,Each,Black,8049,342
+United States,Nevada,Panaca,Each,Blue,34097,1167
+United States,Nevada,Panaca,Each,Gray,1393,63
+United States,Nevada,Panaca,Each,N/A,42712.1,7281
+United States,Nevada,Panaca,Each,Red,3455,42
+United States,Nevada,Panaca,Each,White,1895.5,223
+United States,Nevada,Panaca,Packet,N/A,7431,408
+United States,Nevada,Salt Wells,Carton,Black,14091,1368
+United States,Nevada,Salt Wells,Carton,Gray,1548,516
+United States,Nevada,Salt Wells,Carton,Light Brown,-504,504
+United States,Nevada,Salt Wells,Carton,White,15384,1452
+United States,Nevada,Salt Wells,Each,Black,6064,356
+United States,Nevada,Salt Wells,Each,Blue,28082.5,1158
+United States,Nevada,Salt Wells,Each,Gray,190.5,9
+United States,Nevada,Salt Wells,Each,N/A,67447.55,10928
+United States,Nevada,Salt Wells,Each,Red,3905,57
+United States,Nevada,Salt Wells,Each,White,1980.5,233
+United States,Nevada,Salt Wells,Each,Yellow,1535,30
+United States,Nevada,Salt Wells,Packet,N/A,5805,612
+United States,Nevada,Yerington,Carton,Black,16747,1580
+United States,Nevada,Yerington,Carton,Gray,504,168
+United States,Nevada,Yerington,Carton,Light Brown,-312,312
+United States,Nevada,Yerington,Carton,N/A,2097.6,552
+United States,Nevada,Yerington,Carton,White,8118,768
+United States,Nevada,Yerington,Each,Black,4436.5,235
+United States,Nevada,Yerington,Each,Blue,16308,825
+United States,Nevada,Yerington,Each,Gray,466,20
+United States,Nevada,Yerington,Each,N/A,56240.85,7409
+United States,Nevada,Yerington,Each,Red,4737.5,65
+United States,Nevada,Yerington,Each,White,1113.5,131
+United States,Nevada,Yerington,Each,Yellow,1167.5,18
+United States,Nevada,Yerington,Packet,N/A,7104,556
+United States,Oregon,Cave Junction,Carton,Black,14560,1412
+United States,Oregon,Cave Junction,Carton,Gray,1116,372
+United States,Oregon,Cave Junction,Carton,Light Brown,-192,192
+United States,Oregon,Cave Junction,Carton,White,9474,936
+United States,Oregon,Cave Junction,Each,Black,5454.5,315
+United States,Oregon,Cave Junction,Each,Blue,24271.5,832
+United States,Oregon,Cave Junction,Each,Gray,836.5,41
+United States,Oregon,Cave Junction,Each,N/A,67044.9,8772
+United States,Oregon,Cave Junction,Each,Red,3357.5,54
+United States,Oregon,Cave Junction,Each,White,1037,122
+United States,Oregon,Cave Junction,Each,Yellow,1655,28
+United States,Oregon,Cave Junction,Packet,N/A,4837.5,563
+United States,Oregon,Kerby,Carton,Black,14743,1448
+United States,Oregon,Kerby,Carton,Gray,1764,588
+United States,Oregon,Kerby,Carton,Light Brown,-684,684
+United States,Oregon,Kerby,Carton,N/A,1185.6,312
+United States,Oregon,Kerby,Carton,White,10488,1032
+United States,Oregon,Kerby,Each,Black,9009.5,410
+United States,Oregon,Kerby,Each,Blue,23129.5,755
+United States,Oregon,Kerby,Each,Gray,819,37
+United States,Oregon,Kerby,Each,N/A,77159.85,9121
+United States,Oregon,Kerby,Each,Red,5517.5,66
+United States,Oregon,Kerby,Each,White,1623.5,191
+United States,Oregon,Kerby,Each,Yellow,890,19
+United States,Oregon,Kerby,Packet,N/A,3270,288
+United States,Oregon,Lostine,Carton,Black,10974,1032
+United States,Oregon,Lostine,Carton,Gray,1368,456
+United States,Oregon,Lostine,Carton,Light Brown,-468,468
+United States,Oregon,Lostine,Carton,N/A,759,132
+United States,Oregon,Lostine,Carton,White,9888,936
+United States,Oregon,Lostine,Each,Black,5600.5,318
+United States,Oregon,Lostine,Each,Blue,23251,635
+United States,Oregon,Lostine,Each,Gray,2531.5,122
+United States,Oregon,Lostine,Each,N/A,41905.8,6759
+United States,Oregon,Lostine,Each,Red,2867.5,37
+United States,Oregon,Lostine,Each,White,1530,180
+United States,Oregon,Lostine,Each,Yellow,212.5,17
+United States,Oregon,Lostine,Packet,N/A,4077,408
+United States,Oregon,Molalla,Carton,Black,14773.5,1410
+United States,Oregon,Molalla,Carton,Gray,1476,492
+United States,Oregon,Molalla,Carton,Light Brown,-144,144
+United States,Oregon,Molalla,Carton,N/A,1276.8000000000002,336
+United States,Oregon,Molalla,Carton,White,13410,1284
+United States,Oregon,Molalla,Each,Black,5573.5,324
+United States,Oregon,Molalla,Each,Blue,18282.5,741
+United States,Oregon,Molalla,Each,Gray,1072.5,50
+United States,Oregon,Molalla,Each,N/A,60550.350000000006,6544
+United States,Oregon,Molalla,Each,Red,2017.5,38
+United States,Oregon,Molalla,Each,White,1258,148
+United States,Oregon,Molalla,Each,Yellow,1435,22
+United States,Oregon,Molalla,Packet,N/A,4534.5,569
+United States,Oregon,Newberg,Carton,Black,14763,1440
+United States,Oregon,Newberg,Carton,Gray,2124,708
+United States,Oregon,Newberg,Carton,Light Brown,-216,216
+United States,Oregon,Newberg,Carton,N/A,820.8,216
+United States,Oregon,Newberg,Carton,White,11586,1104
+United States,Oregon,Newberg,Each,Black,9016,367
+United States,Oregon,Newberg,Each,Blue,28860.5,792
+United States,Oregon,Newberg,Each,Gray,1027,48
+United States,Oregon,Newberg,Each,N/A,77991.6,7875
+United States,Oregon,Newberg,Each,Red,2552.5,52
+United States,Oregon,Newberg,Each,White,1377,162
+United States,Oregon,Newberg,Each,Yellow,550,15
+United States,Oregon,Newberg,Packet,N/A,3444,626
+United States,Oregon,Placer,Carton,Black,12083.5,1214
+United States,Oregon,Placer,Carton,Gray,828,276
+United States,Oregon,Placer,Carton,Light Brown,-516,516
+United States,Oregon,Placer,Carton,N/A,638.4,168
+United States,Oregon,Placer,Carton,White,15690,1512
+United States,Oregon,Placer,Each,Black,8108.5,383
+United States,Oregon,Placer,Each,Blue,33383.5,1124
+United States,Oregon,Placer,Each,Gray,1139.5,53
+United States,Oregon,Placer,Each,N/A,75680.65,10901
+United States,Oregon,Placer,Each,Red,2607.5,46
+United States,Oregon,Placer,Each,White,2193,258
+United States,Oregon,Placer,Each,Yellow,597.5,13
+United States,Oregon,Placer,Packet,N/A,3732,656
+United States,Oregon,Wapinitia,Carton,Black,16363.5,1638
+United States,Oregon,Wapinitia,Carton,Gray,1368,456
+United States,Oregon,Wapinitia,Carton,Light Brown,-564,564
+United States,Oregon,Wapinitia,Carton,N/A,273.6,72
+United States,Oregon,Wapinitia,Carton,White,14100,1380
+United States,Oregon,Wapinitia,Each,Black,8643,364
+United States,Oregon,Wapinitia,Each,Blue,29262,1288
+United States,Oregon,Wapinitia,Each,Gray,832,36
+United States,Oregon,Wapinitia,Each,N/A,81498.5,8032
+United States,Oregon,Wapinitia,Each,Red,3612.5,43
+United States,Oregon,Wapinitia,Each,White,1819,214
+United States,Oregon,Wapinitia,Each,Yellow,1360,16
+United States,Oregon,Wapinitia,Packet,N/A,4516.5,299
+United States,Oregon,Wasco,Carton,Black,11880,1116
+United States,Oregon,Wasco,Carton,Gray,2124,708
+United States,Oregon,Wasco,Carton,Light Brown,-432,432
+United States,Oregon,Wasco,Carton,White,15906,1512
+United States,Oregon,Wasco,Each,Black,10205.5,387
+United States,Oregon,Wasco,Each,Blue,24388.5,974
+United States,Oregon,Wasco,Each,Gray,1240.5,57
+United States,Oregon,Wasco,Each,N/A,59401.55,8660
+United States,Oregon,Wasco,Each,Red,3250,40
+United States,Oregon,Wasco,Each,White,1980.5,233
+United States,Oregon,Wasco,Each,Yellow,100,8
+United States,Oregon,Wasco,Packet,N/A,6190.5,579
+United States,Washington,Amanda Park,Carton,Black,9289.5,882
+United States,Washington,Amanda Park,Carton,Gray,1692,564
+United States,Washington,Amanda Park,Carton,Light Brown,-864,864
+United States,Washington,Amanda Park,Carton,White,4686,444
+United States,Washington,Amanda Park,Each,Black,6693.5,300
+United States,Washington,Amanda Park,Each,Blue,31866,1126
+United States,Washington,Amanda Park,Each,Gray,970,42
+United States,Washington,Amanda Park,Each,N/A,47647.35,6883
+United States,Washington,Amanda Park,Each,Red,4540,64
+United States,Washington,Amanda Park,Each,White,1887,222
+United States,Washington,Amanda Park,Each,Yellow,935,11
+United States,Washington,Amanda Park,Packet,N/A,8101.5,819
+United States,Washington,College Place,Carton,Black,20462,2032
+United States,Washington,College Place,Carton,Gray,1692,564
+United States,Washington,College Place,Carton,Light Brown,-180,180
+United States,Washington,College Place,Carton,N/A,638.4,168
+United States,Washington,College Place,Carton,White,7740,744
+United States,Washington,College Place,Each,Black,6809,257
+United States,Washington,College Place,Each,Blue,20797.5,956
+United States,Washington,College Place,Each,Gray,1235,56
+United States,Washington,College Place,Each,N/A,40662.05,8528
+United States,Washington,College Place,Each,Red,1785,20
+United States,Washington,College Place,Each,White,1632,192
+United States,Washington,College Place,Each,Yellow,297.5,18
+United States,Washington,College Place,Packet,N/A,4551,568
+United States,Washington,Harbour Pointe,Carton,Black,15433.5,1494
+United States,Washington,Harbour Pointe,Carton,Gray,864,288
+United States,Washington,Harbour Pointe,Carton,Light Brown,-456,456
+United States,Washington,Harbour Pointe,Carton,N/A,433.8,108
+United States,Washington,Harbour Pointe,Carton,White,12474,1188
+United States,Washington,Harbour Pointe,Each,Black,13705.5,446
+United States,Washington,Harbour Pointe,Each,Blue,33945.5,1284
+United States,Washington,Harbour Pointe,Each,Gray,598.5,31
+United States,Washington,Harbour Pointe,Each,N/A,55694.6,9287
+United States,Washington,Harbour Pointe,Each,Red,5690,82
+United States,Washington,Harbour Pointe,Each,White,1232.5,145
+United States,Washington,Harbour Pointe,Each,Yellow,842.5,21
+United States,Washington,Harbour Pointe,Packet,N/A,5223,546
+United States,Washington,Koontzville,Carton,Black,13611,1296
+United States,Washington,Koontzville,Carton,Gray,828,276
+United States,Washington,Koontzville,Carton,Light Brown,-864,864
+United States,Washington,Koontzville,Carton,White,13848,1332
+United States,Washington,Koontzville,Each,Black,10412.5,438
+United States,Washington,Koontzville,Each,Blue,29296,1224
+United States,Washington,Koontzville,Each,Gray,269.5,13
+United States,Washington,Koontzville,Each,N/A,70864.2,8772
+United States,Washington,Koontzville,Each,Red,3850,69
+United States,Washington,Koontzville,Each,White,1198.5,141
+United States,Washington,Koontzville,Each,Yellow,475,9
+United States,Washington,Koontzville,Packet,N/A,2659.5,311
+United States,Washington,Lake Stevens,Carton,Black,13809,1368
+United States,Washington,Lake Stevens,Carton,Gray,144,48
+United States,Washington,Lake Stevens,Carton,Light Brown,-744,744
+United States,Washington,Lake Stevens,Carton,N/A,912,240
+United States,Washington,Lake Stevens,Carton,White,13134,1248
+United States,Washington,Lake Stevens,Each,Black,12009,421
+United States,Washington,Lake Stevens,Each,Blue,33252.5,1192
+United States,Washington,Lake Stevens,Each,Gray,1960.5,86
+United States,Washington,Lake Stevens,Each,N/A,62546.9,9254
+United States,Washington,Lake Stevens,Each,Red,515,19
+United States,Washington,Lake Stevens,Each,White,918,108
+United States,Washington,Lake Stevens,Each,Yellow,340,4
+United States,Washington,Lake Stevens,Packet,N/A,3738,432
+United States,Washington,Long Beach,Carton,Black,1597,164
+United States,Washington,Long Beach,Carton,Gray,180,60
+United States,Washington,Long Beach,Carton,Light Brown,-24,24
+United States,Washington,Long Beach,Carton,N/A,1641.6,432
+United States,Washington,Long Beach,Each,Black,2256,38
+United States,Washington,Long Beach,Each,Blue,704,81
+United States,Washington,Long Beach,Each,N/A,3362.75,670
+United States,Washington,Long Beach,Each,Red,25,2
+United States,Washington,Long Beach,Each,White,76.5,9
+United States,Washington,Long Beach,Packet,N/A,336,96
+United States,Washington,Malott,Carton,Black,17460,1740
+United States,Washington,Malott,Carton,Gray,828,276
+United States,Washington,Malott,Carton,Light Brown,-336,336
+United States,Washington,Malott,Carton,N/A,1094.4,288
+United States,Washington,Malott,Carton,White,7524,744
+United States,Washington,Malott,Each,Black,6249.5,312
+United States,Washington,Malott,Each,Blue,34489,935
+United States,Washington,Malott,Each,Gray,868.25,46
+United States,Washington,Malott,Each,N/A,76832.95,8757
+United States,Washington,Malott,Each,Red,3295,50
+United States,Washington,Malott,Each,White,1946.5,229
+United States,Washington,Malott,Packet,N/A,2470.5,499
+United States,Washington,Meadowdale,Carton,Black,12731,1240
+United States,Washington,Meadowdale,Carton,Gray,612,204
+United States,Washington,Meadowdale,Carton,Light Brown,-180,180
+United States,Washington,Meadowdale,Carton,N/A,1555.2,360
+United States,Washington,Meadowdale,Carton,White,13092,1224
+United States,Washington,Meadowdale,Each,Black,10907,272
+United States,Washington,Meadowdale,Each,Blue,27423.5,1078
+United States,Washington,Meadowdale,Each,Gray,1059.5,46
+United States,Washington,Meadowdale,Each,N/A,99226.35,6825
+United States,Washington,Meadowdale,Each,Red,2795,33
+United States,Washington,Meadowdale,Each,White,1368.5,161
+United States,Washington,Meadowdale,Each,Yellow,1415,32
+United States,Washington,Meadowdale,Packet,N/A,4749,258
+United States,Washington,Midland,Carton,Black,264,24
+United States,Washington,Midland,Carton,Gray,324,108
+United States,Washington,Midland,Carton,White,684,72
+United States,Washington,Midland,Each,Black,94.5,10
+United States,Washington,Midland,Each,Blue,90,9
+United States,Washington,Midland,Each,N/A,1475.9,326
+United States,Washington,Midland,Each,Red,25,2
+United States,Washington,Midland,Packet,N/A,303,2
+United States,Washington,Naches,Carton,Black,13751,1348
+United States,Washington,Naches,Carton,Gray,1152,384
+United States,Washington,Naches,Carton,Light Brown,-348,348
+United States,Washington,Naches,Carton,N/A,912,240
+United States,Washington,Naches,Carton,White,15420,1500
+United States,Washington,Naches,Each,Black,4397,139
+United States,Washington,Naches,Each,Blue,25706,1059
+United States,Washington,Naches,Each,Gray,545.5,23
+United States,Washington,Naches,Each,N/A,56265.3,6028
+United States,Washington,Naches,Each,Red,780,6
+United States,Washington,Naches,Each,White,1113.5,131
+United States,Washington,Naches,Each,Yellow,25,2
+United States,Washington,Naches,Packet,N/A,2698.5,435
+United States,Washington,Point Roberts,Carton,Black,9924,948
+United States,Washington,Point Roberts,Carton,Gray,1260,420
+United States,Washington,Point Roberts,Carton,Light Brown,-312,312
+United States,Washington,Point Roberts,Carton,N/A,547.2,144
+United States,Washington,Point Roberts,Carton,White,6912,684
+United States,Washington,Point Roberts,Each,Black,8949.5,357
+United States,Washington,Point Roberts,Each,Blue,21772,1007
+United States,Washington,Point Roberts,Each,Gray,914,41
+United States,Washington,Point Roberts,Each,N/A,79322.1,8687
+United States,Washington,Point Roberts,Each,Red,3405,30
+United States,Washington,Point Roberts,Each,White,1351.5,159
+United States,Washington,Point Roberts,Each,Yellow,405,15
+United States,Washington,Point Roberts,Packet,N/A,4851,762
+United States,Washington,Royal City,Carton,Black,7305.5,742
+United States,Washington,Royal City,Carton,Gray,1116,372
+United States,Washington,Royal City,Carton,Light Brown,-576,576
+United States,Washington,Royal City,Carton,N/A,1915.1999999999998,504
+United States,Washington,Royal City,Carton,White,18786,1800
+United States,Washington,Royal City,Each,Black,7067,339
+United States,Washington,Royal City,Each,Blue,19592.5,748
+United States,Washington,Royal City,Each,Gray,240,10
+United States,Washington,Royal City,Each,N/A,47576.8,7147
+United States,Washington,Royal City,Each,Red,3400,47
+United States,Washington,Royal City,Each,White,1776.5,209
+United States,Washington,Royal City,Each,Yellow,1270,32
+United States,Washington,Royal City,Packet,N/A,2863.5,419
+United States,Washington,Sekiu,Carton,Black,15649.5,1542
+United States,Washington,Sekiu,Carton,Gray,1476,492
+United States,Washington,Sekiu,Carton,Light Brown,-636,636
+United States,Washington,Sekiu,Carton,White,19302,1860
+United States,Washington,Sekiu,Each,Black,9018,385
+United States,Washington,Sekiu,Each,Blue,25461,928
+United States,Washington,Sekiu,Each,Gray,765,34
+United States,Washington,Sekiu,Each,N/A,74224.95000000001,10954
+United States,Washington,Sekiu,Each,Red,2740,40
+United States,Washington,Sekiu,Each,White,2414,284
+United States,Washington,Sekiu,Each,Yellow,85,1
+United States,Washington,Sekiu,Packet,N/A,5487,670
+United States,Washington,Skyway,Carton,Black,19650,1872
+United States,Washington,Skyway,Carton,Gray,1152,384
+United States,Washington,Skyway,Carton,Light Brown,-480,480
+United States,Washington,Skyway,Carton,N/A,1035,180
+United States,Washington,Skyway,Carton,White,10602,1020
+United States,Washington,Skyway,Each,Black,12142,401
+United States,Washington,Skyway,Each,Blue,22073.5,709
+United States,Washington,Skyway,Each,Gray,1022,46
+United States,Washington,Skyway,Each,N/A,41731.2,6017
+United States,Washington,Skyway,Each,Red,3975,81
+United States,Washington,Skyway,Each,White,1751,206
+United States,Washington,Skyway,Each,Yellow,175,14
+United States,Washington,Skyway,Packet,N/A,4474.5,435
+United States,Washington,Trentwood,Carton,Black,15077.5,1466
+United States,Washington,Trentwood,Carton,Gray,540,180
+United States,Washington,Trentwood,Carton,Light Brown,-396,396
+United States,Washington,Trentwood,Carton,N/A,1185.6,312
+United States,Washington,Trentwood,Carton,White,10692,1008
+United States,Washington,Trentwood,Each,Black,8450.5,316
+United States,Washington,Trentwood,Each,Blue,43674,1218
+United States,Washington,Trentwood,Each,Gray,785.5,33
+United States,Washington,Trentwood,Each,N/A,49120.200000000004,7211
+United States,Washington,Trentwood,Each,Red,4822.5,55
+United States,Washington,Trentwood,Each,White,2303.5,271
+United States,Washington,Trentwood,Each,Yellow,280,5
+United States,Washington,Trentwood,Packet,N/A,4375.5,439
+United States,Washington,Upper Preston,Carton,Black,12665,1216
+United States,Washington,Upper Preston,Carton,Gray,936,312
+United States,Washington,Upper Preston,Carton,Light Brown,-216,216
+United States,Washington,Upper Preston,Carton,N/A,2006.4,528
+United States,Washington,Upper Preston,Carton,White,12954,1224
+United States,Washington,Upper Preston,Each,Black,10076.5,375
+United States,Washington,Upper Preston,Each,Blue,44621,1135
+United States,Washington,Upper Preston,Each,Gray,608.5,27
+United States,Washington,Upper Preston,Each,N/A,57503.399999999994,7465
+United States,Washington,Upper Preston,Each,Red,1997.5,50
+United States,Washington,Upper Preston,Each,White,1419.5,167
+United States,Washington,Upper Preston,Each,Yellow,975,20
+United States,Washington,Upper Preston,Packet,N/A,3222,474
+United States,Washington,Venersborg,Carton,Black,15607.5,1506
+United States,Washington,Venersborg,Carton,Gray,2052,684
+United States,Washington,Venersborg,Carton,Light Brown,-528,528
+United States,Washington,Venersborg,Carton,White,11838,1128
+United States,Washington,Venersborg,Each,Black,9061.5,478
+United States,Washington,Venersborg,Each,Blue,24573,815
+United States,Washington,Venersborg,Each,Gray,828.5,42
+United States,Washington,Venersborg,Each,N/A,75657.15,10336
+United States,Washington,Venersborg,Each,Red,5295,53
+United States,Washington,Venersborg,Each,White,1683,198
+United States,Washington,Venersborg,Each,Yellow,1360,16
+United States,Washington,Venersborg,Packet,N/A,4153.5,621
